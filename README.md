@@ -1,5 +1,9 @@
 # How changes in seasonality affect the dynamics of rodent-mustelid system?
-Julia Mikhailova
+Julia Mikhailova $^a$, Nigel Yoccoz $^a$, Martin Rypdal $^b$, Nikolas Aksamit $^b$
+
+$^a$ Department of Arctic and Marine Biology, $^b$ Department of Mathematics and Statistics, The Arctic University of Norway, Tromso, Norway 
+
+email: <julia.mikhailova@uit.no>
 
 ## Background
 
@@ -14,6 +18,7 @@ $$     \frac{dn}{d\tau} = n(1-n) - \frac{n^2p}{\tilde{b}^2+n^2}, $$
 $$    \frac{dp}{d\tau} = \tilde{\gamma} \frac{n^2p}{\tilde{b}^2+\tilde{n}^2} + \tilde{s}\frac{p}{1+\tilde{\nu}p}-\tilde{m}p $$
 
 *Winter* $(1-T_s)$
+
 $$     \frac{dn}{d\tau} =  - \frac{\tilde{\alpha}np}{\tilde{\beta}+n}, $$
 
 $$    \frac{dp}{d\tau} = \tilde{\gamma} \frac{\tilde{\alpha}np}{\tilde{\beta}+n}-\tilde{\mu}p $$

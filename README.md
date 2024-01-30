@@ -1,17 +1,5 @@
----
-title: "How changes in seasonality affect the dynamics of rodent-mustelid system?"
-author: | 
-  | Julia Mikhailova$^a$, Nigel Yoccoz$^a$, Martin Rypdal$^b$, Nikolas Aksamit$^b$
-  | $^a$ Department of Arctic and Marine Biology, $^b$ Department of Mathematics and Statistics, The Arctic University of Norway, Tromso, Norway 
-Email: <julia.mikhailova@uit.no>
-output: html_document
-bibliography: bibliography.bib
-csl: "apa-numeric-superscript-brackets.csl"
-nocite: |
-  @Rinaldi1993, @wavelet
----
-
-
+# How changes in seasonality affect the dynamics of rodent-mustelid system?
+Julia Mikhailova
 
 ## Background
 

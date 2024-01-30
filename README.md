@@ -8,6 +8,7 @@ Julia Mikhailova
 * Discrete predator-prey system with varying summer season length ($Ts$) [@Tyson2016]:
 
 *Summer* $T_s$
+
 $$     \frac{dn}{d\tau} = n(1-n) - \frac{n^2p}{\tilde{b}^2+n^2}, \\
     \frac{dp}{d\tau} = \tilde{\gamma} \frac{n^2p}{\tilde{b}^2+\tilde{n}^2} + \tilde{s}\frac{p}{1+\tilde{\nu}p}-\tilde{m}p $$
 

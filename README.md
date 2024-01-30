@@ -5,6 +5,13 @@ $^a$ Department of Arctic and Marine Biology, $^b$ Department of Mathematics and
 
 email: <julia.mikhailova@uit.no>
 
+<figure align="center">
+    <img src="lemmen3.png" width="150" 
+         alt="Not possible to display figure">
+    <figcaption>  </figcaption>
+</figure>
+
+
 ## Background
 
 * Predator-prey model for the mustelid (predator, $p$) - rodent (prey, $n$) system similar to e.g. hare-lynx system [1]
@@ -121,11 +128,6 @@ $$    \frac{dp}{d\tau} = \tilde{\gamma} \frac{\tilde{\alpha}np}{\tilde{\beta}+n}
 
 ---
  
-<figure align="center">
-    <img src="lemmen3.png" width="200" 
-         alt="Not possible to display figure">
-    <figcaption>  </figcaption>
-</figure>
 
 # References
 

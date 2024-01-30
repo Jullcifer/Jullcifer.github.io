@@ -7,9 +7,9 @@ email: <julia.mikhailova@uit.no>
 
 ## Background
 
-* Predator-prey model for the mustelid (predator, $p$) - rodent (prey, $n$) system similar to e.g. hare-lynx system [@Barraquand2017]
-* Inspired by [@Tyson2016], seasonality is incorporated as shifts in predatory response from generalist (type III) in the summer to specialist (type II) in the winter
-* Discrete predator-prey system with varying summer season length ($Ts$) [@Tyson2016]:
+* Predator-prey model for the mustelid (predator, $p$) - rodent (prey, $n$) system similar to e.g. hare-lynx system [1]
+* Inspired by [2], seasonality is incorporated as shifts in predatory response from generalist (type III) in the summer to specialist (type II) in the winter
+* Discrete predator-prey system with varying summer season length ($Ts$) [2]:
 
 *Summer* $T_s$
 

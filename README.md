@@ -133,10 +133,10 @@ $$    \frac{dp}{d\tau} = \tilde{\gamma} \frac{\tilde{\alpha}np}{\tilde{\beta}+n}
 
 <div id="refs"></div>
 
-1. Barraquand, F., Louca, S., Abbott, K. C., Cobbold, C. A., Cordoleani, F., DeAngelis, D. L., Elderd, B. D., Fox, J. W., Greenwood, P., Hilker, F. M., Murray, D. L., Stieha, C. R., Taylor, R. A., Vitense, K., Wolkowicz, G. S. K., & Tyson, R. C. (2017). Moving forward in circles: challenges and opportunities in modelling population cycles. Ecology Letters, 20(8), 1074–1092. https://doi.org/10.1111/ele.12789
+1. Barraquand, F., Louca, S., Abbott, K. C., Cobbold, C. A., Cordoleani, F., DeAngelis, D. L., Elderd, B. D., Fox, J. W., Greenwood, P., Hilker, F. M., Murray, D. L., Stieha, C. R., Taylor, R. A., Vitense, K., Wolkowicz, G. S. K., & Tyson, R. C. (2017). Moving forward in circles: challenges and opportunities in modelling population cycles. Ecology Letters, 20(8), 1074–1092. [https://doi.org/10.1111/ele.12789]
 
-2. Tyson, R., & Lutscher, F. (2016). Seasonally Varying Predation Behavior and Climate Shifts Are Predicted to Affect Predator-Prey Cycles. The American Naturalist, 188(5), 539–553. https://doi.org/10.1086/688665
+2. Tyson, R., & Lutscher, F. (2016). Seasonally Varying Predation Behavior and Climate Shifts Are Predicted to Affect Predator-Prey Cycles. The American Naturalist, 188(5), 539–553. [https://doi.org/10.1086/688665]
    
-3. Rinaldi, S., & Muratori, S. (1993). Conditioned chaos in seasonally perturbed predator-prey models. Ecological Modelling, 69(1-2), 79–97. https://doi.org/10.1016/0304-3800(93)90050-3
+3. Rinaldi, S., & Muratori, S. (1993). Conditioned chaos in seasonally perturbed predator-prey models. Ecological Modelling, 69(1-2), 79–97. [https://doi.org/10.1016/0304-3800(93)90050-3]
 
-4. Torrence, C., & Compo, G. P. (1998). A practical guide to wavelet analysis. Bulletin of the American Meteorological Society, 79(1), 61–78. https://doi.org/https://doi.org/10.1175/1520-0477(1998)079<0061:APGTWA>2.0.CO;2
+4. Torrence, C., & Compo, G. P. (1998). A practical guide to wavelet analysis. Bulletin of the American Meteorological Society, 79(1), 61–78. [https://doi.org/https://doi.org/10.1175/1520-0477(1998)079<0061:APGTWA>2.0.CO;2]

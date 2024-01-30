@@ -137,4 +137,4 @@ $$    \frac{dp}{d\tau} = \tilde{\gamma} \frac{\tilde{\alpha}np}{\tilde{\beta}+n}
    
 3. Rinaldi, S., & Muratori, S. (1993). Conditioned chaos in seasonally perturbed predator-prey models. Ecological Modelling, 69(1-2), 79–97. https://doi.org/10.1016/0304-3800(93)90050-3
 
-4. Torrence, C., & Compo, G. P. (1998). A practical guide to wavelet analysis. Bulletin of the American Meteorological Society, 79(1), 61–78. [https://doi.org/https://doi.org/10.1175/1520-0477(1998)079<0061:APGTWA>2.0.CO;2]
+4. Torrence, C., & Compo, G. P. (1998). A practical guide to wavelet analysis. Bulletin of the American Meteorological Society, 79(1), 61–78. https://doi.org/https://doi.org/10.1175/1520-0477(1998)079<0061:APGTWA>2.0.CO;2
